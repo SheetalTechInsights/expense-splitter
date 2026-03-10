@@ -35,8 +35,10 @@ https://expense-splitter-inky.vercel.app
 Example:
 
 ```
-/screenshots/home.png
-/screenshots/split-expense.png
+/Desktop/ExpenseSplitter/home.png
+/Desktop/ExpenseSplitter/friends.png
+/Desktop/ExpenseSplitter/addExpense.png
+/Desktop/ExpenseSplitter/dashboard.png
 ```
 
 ---
@@ -80,16 +82,20 @@ http://localhost:3000
 ```
 src
  ┣ components
- ┃ ┣ FriendList.js
- ┃ ┣ AddFriendForm.js
- ┃ ┣ SplitBillForm.js
+ ┃ ┣ HomePage.js
+ ┃ ┣ LandingPage.js
+ ┃ ┣ Footer.js
+ ┃ ┣ Header.js
+ ┃ ┣ Dashboard.js
+ ┃ ┣ Friends.js
+ 
  ┣ App.js
  ┣ index.js
 ```
 
 ---
 
-# 🌍 Deployment
+#  Deployment
 
 This project is deployed on **Vercel**.
 
@@ -98,7 +104,7 @@ https://expense-splitter-inky.vercel.app
 
 ---
 
-# 🎯 Future Improvements
+#  Future Improvements
 
 * Authentication system
 * Persistent database storage
@@ -107,15 +113,15 @@ https://expense-splitter-inky.vercel.app
 
 ---
 
-# 👩‍💻 Author
+#  Author
 
 **Sheetal Patidar**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: *(Add your LinkedIn)*
+* GitHub: https://github.com/SheetalTechInsights
+* LinkedIn: *(https://www.linkedin.com/in/sheetal-patidar-9a0000292)*
 
 ---
 
-# ⭐ Support
+# Support
 
 If you like this project, consider giving it a **star ⭐ on GitHub**.
