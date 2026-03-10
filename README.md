@@ -35,10 +35,10 @@ https://expense-splitter-inky.vercel.app
 Example:
 
 ```
-/Desktop/ExpenseSplitter/home.png
-/Desktop/ExpenseSplitter/friends.png
-/Desktop/ExpenseSplitter/addExpense.png
-/Desktop/ExpenseSplitter/dashboard.png
+/Desktop/ExpenseSplitterImages/home.png
+/Desktop/ExpenseSplitterImages/friends.png
+/Desktop/ExpenseSplitterImages/addExpense.png
+/Desktop/ExpenseSplitterImages/dashboard.png
 ```
 
 ---
