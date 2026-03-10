@@ -32,13 +32,21 @@ https://expense-splitter-inky.vercel.app
 
 *(Add screenshots here later)*
 
-Example:
 
 ```
-/Desktop/ExpenseSplitterImages/home.png
-/Desktop/ExpenseSplitterImages/friends.png
-/Desktop/ExpenseSplitterImages/addExpense.png
-/Desktop/ExpenseSplitterImages/dashboard.png
+## Screenshots
+
+###  Home Page
+![Home Page](screenshots/home.png)
+
+###  Friends List
+![Friends](screenshots/friends.png)
+
+###  Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### ➕ Add Expense
+![Add Expense](screenshots/addExpense.png)
 ```
 
 ---
