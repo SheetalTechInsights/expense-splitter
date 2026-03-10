@@ -33,7 +33,6 @@ https://expense-splitter-inky.vercel.app
 *(Add screenshots here later)*
 
 
-```
 ## Screenshots
 
 ###  Home Page
@@ -47,7 +46,6 @@ https://expense-splitter-inky.vercel.app
 
 ### ➕ Add Expense
 ![Add Expense](screenshots/addExpense.png)
-```
 
 ---
 
